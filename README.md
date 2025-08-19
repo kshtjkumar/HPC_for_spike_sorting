@@ -1,2 +1,6 @@
 # HPC_for_spike_sorting
-Tools for merging long Intan .rhs files and parallel spike sorting of large-scale, multi-day ephys datasets using HPC. Includes preprocessing scripts, job submission templates, and workflows for efficient large data analysis.
+Merge long `.rhs` files and parallel spike sorting of multi-day ephys data on HPC
+
+sample data: https://drive.google.com/drive/folders/11hGEerU6NxrWMCEDLU9uj75HOaXfa4mz?usp=sharing
+
+
